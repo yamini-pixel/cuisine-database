@@ -15,10 +15,12 @@ Cuisine database: columns:
 8.	Number of steps, INT
 9.	Calorie intake, DECIMAL
 10.	Servings, INT
-a quick search of:
+
+A quick search of:
 1.	Which dishes have least/most steps?
 2.	Which dishes would take least/most time for preparation?
 3.	Which dishes have least/most calories?
+
 Useful for:
 1.	Students
 2.	Working professionals
