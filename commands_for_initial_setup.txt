@@ -1,0 +1,34 @@
+download github
+open git bash
+create new repo in github browser version
+create a new folder in C (it's easier this way)
+in git bash,  cd for changing directory, ls for listing contents of directory
+
+cd /c
+cd GitHub/
+git config --global user.name "yamini-pixel"
+git config --global user.email manralyamini@gmail.com
+
+git clone https of repo 
+this will clone your repo locally to your desktop
+
+cd GitHub/
+ls
+
+create a new document locally
+
+to add file to git
+git add filename.extension
+
+to check status of your files
+git status
+
+to commit files to git
+git commit -m "some comment" filename.extension
+
+to push your file to github account (browser version)
+git push -u origin main
+if your main repo is called master, then write git push -u origin master
+
+
+
