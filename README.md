@@ -3,7 +3,12 @@ A database for recipes from around the world
 
 Databse description:
 We intend to establish a database for recipes from many cuisines throughout the world, complete with information about serving sizes, calories, cooking techniques, as well as other factors for effective search.
-Members: 2; Yamini Manral, Shubham Shah
+
+Members: 
+Shubham Shah 002743848 shah.shubha@northeastern.edu 
+Yamini Manral 002703881 manral.y@northeastern.edu 
+Github: https://github.com/yamini-pixel/cuisine-database 
+
 Cuisine database: columns:
 1.	Name of the dish, VARCHAR(30)
 2.	Cuisine, VARCHAR(30)
